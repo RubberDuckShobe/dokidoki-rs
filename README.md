@@ -12,4 +12,4 @@ Any heart rate updates sent by the watch get sent to all connected WebSocket cli
 ## Credits
 
 - [The original HeartRateToWeb](https://github.com/loic2665/HeartRateToWeb)
-- (axum)[https://github.com/tokio-rs/axum] ``chat`` and ``websockets`` examples
+- [axum](https://github.com/tokio-rs/axum) ``chat`` and ``websockets`` examples
